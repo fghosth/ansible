@@ -1,0 +1,16 @@
+zone "nb.com" {
+        type master;
+        file "/etc/named/nb.com.hosts";
+        };
+zone "172.16.58.61.in-addr.arpa" {
+        type master;
+        file "/etc/named/172.16.58.61.rev";
+        };
+zone "uab.com" {
+        type master;
+        file "/etc/named/uab.com.hosts";
+        };
+zone "116.228.39.114.in-addr.arpa" {
+        type master;
+        file "/etc/named/116.228.39.114.rev";
+        };

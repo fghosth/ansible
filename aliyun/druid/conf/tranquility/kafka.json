@@ -1,0 +1,14 @@
+{
+  "dataSources" : [],
+  "properties" : {
+    "zookeeper.connect" : "master.example.com",
+    "druid.discovery.curator.path" : "/druid/discovery",
+    "druid.selectors.indexing.serviceName" : "druid/overlord",
+    "commit.periodMillis" : "15000",
+    "consumer.numThreads" : "2",
+    "kafka.zookeeper.connect" : "kafka-zk.example.com",
+    "kafka.group.id" : "tranquility-kafka",
+    "serialization.format" : "smile",
+    "druidBeam.taskLocator": "overlord"
+  }
+}

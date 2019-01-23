@@ -1,0 +1,2 @@
+export DRUID_HOME=/data/imply-2.6.0
+export PATH=$DRUID_HOME/bin:$PATH

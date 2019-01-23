@@ -1,0 +1,3 @@
+[swarm]
+swarm01 ansible_ssh_port=22   ansible_ssh_user=root  ansible_ssh_private_key_file=/root/.ssh/derek ansible_connection=ssh
+swarm02 ansible_ssh_port=22   ansible_ssh_user=root  ansible_ssh_private_key_file=/root/.ssh/derek ansible_connection=ssh

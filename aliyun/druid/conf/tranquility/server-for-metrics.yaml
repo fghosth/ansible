@@ -1,0 +1,45 @@
+dataSources:
+  - spec:
+      dataSchema:
+        dataSource: druid-metrics
+        parser:
+          type: string
+          parseSpec:
+            format: json
+            timestampSpec:
+              column: timestamp
+              format: auto
+            dimensionsSpec:
+              dimensions: []
+
+        metricsSpec:
+          - { type: count, name: count }
+          - { type: doubleSum, name: sum, fieldName: value }
+          - { type: doubleMin, name: min, fieldName: value }
+          - { type: doubleMax, name: max, fieldName: value }
+          - { type: approxHistogram, name: histogram, fieldName: value, resolution: 50 }
+
+        granularitySpec:
+          type: uniform
+          segmentGranularity: hour
+          queryGranularity: none
+
+      ioConfig:
+        type: realtime
+
+      tuningConfig:
+        type: realtime
+        maxRowsInMemory: 100000
+        intermediatePersistPeriod: PT10M
+        windowPeriod: PT10M
+        buildV9Directly: true
+
+properties:
+  http.port: 9999
+  zookeeper.connect: '10.63.0.204' # Replace with your Zookeeper host
+  zookeeper.timeout: PT30S
+  task.partitions: 1
+  task.replicants: 1
+  topicPattern.priority: 10
+  serialization.format: smile
+  druidBeam.taskLocator: overlord

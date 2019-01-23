@@ -1,0 +1,2 @@
+export ZK_HOME=/data/zookeeper-3.4.12
+export PATH=$ZK_HOME/bin:$PATH

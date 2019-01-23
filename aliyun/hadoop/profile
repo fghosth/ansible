@@ -1,0 +1,2 @@
+export HADOOP_HOME=/data/hadoop-3.1.0
+export PATH=$PATH:$HADOOP_HOME/bin

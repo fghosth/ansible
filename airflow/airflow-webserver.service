@@ -1,0 +1,18 @@
+[Unit]
+Description=Airflow webserver daemon
+After=network.target
+
+[Service]
+Environment=AIRFLOW_HOME=/opt/airflow
+Environment=AIRFLOW_CONFIG=/opt/airflow/airflow.cfg
+User=root
+Group=root
+Type=simple
+ExecStart=/usr/local/bin/airflow webserver --pid /opt/airflow/webserver.pid
+Restart=on-failure
+RestartSec=5s
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target
+

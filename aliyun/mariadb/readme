@@ -1,0 +1,78 @@
+6.配置MariaDB的字符集
+
+文件/etc/my.cnf
+
+
+vi /etc/my.cnf
+在[mysqld]标签下添加
+
+init_connect='SET collation_connection = utf8_unicode_ci' 
+init_connect='SET NAMES utf8' 
+character-set-server=utf8 
+collation-server=utf8_unicode_ci 
+skip-character-set-client-handshake
+文件/etc/my.cnf.d/client.cnf
+
+vi /etc/my.cnf.d/client.cnf
+在[client]中添加
+
+default-character-set=utf8
+文件/etc/my.cnf.d/mysql-clients.cnf
+
+vi /etc/my.cnf.d/mysql-clients.cnf
+在[mysql]中添加
+
+default-character-set=utf8
+ 全部配置完成，重启mariadb
+
+systemctl restart mariadb
+之后进入MariaDB查看字符集
+
+mysql> show variables like "%character%";show variables like "%collation%";
+显示为
+
+
++--------------------------+----------------------------+
+| Variable_name            | Value                      |
++--------------------------+----------------------------+
+| character_set_client    | utf8                      |
+| character_set_connection | utf8                      |
+| character_set_database  | utf8                      |
+| character_set_filesystem | binary                    |
+| character_set_results    | utf8                      |
+| character_set_server    | utf8                      |
+| character_set_system    | utf8                      |
+| character_sets_dir      | /usr/share/mysql/charsets/ |
++--------------------------+----------------------------+
+8 rows in set (0.00 sec)
+
++----------------------+-----------------+
+| Variable_name        | Value          |
++----------------------+-----------------+
+| collation_connection | utf8_unicode_ci |
+| collation_database  | utf8_unicode_ci |
+| collation_server    | utf8_unicode_ci |
++----------------------+-----------------+
+3 rows in set (0.00 sec)
+
+字符集配置完成。
+
+ 
+
+3、添加用户，设置权限
+
+创建用户命令
+
+mysql>create user username@localhost identified by 'password';
+直接创建用户并授权的命令
+
+mysql>grant all on *.* to username@localhost indentified by 'password';
+授予外网登陆权限 
+
+mysql>grant all privileges on *.* to username@'%' identified by 'password';
+授予权限并且可以授权
+
+mysql>grant all privileges on *.* to username@'hostname' identified by 'password' with grant option;
+简单的用户和权限配置基本就这样了。
+
+其中只授予部分权限把 其中 all privileges或者all改为select,insert,update,delete,create,drop,index,alter,grant,references,reload,shutdown,process,file其中一部分。

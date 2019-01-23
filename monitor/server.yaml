@@ -1,0 +1,11 @@
+serverName: dsp1
+inflxudb:
+  addr: http://ec2-user@adcsg001.hemin.im:8086
+  username: derek
+  password: "zaqwedcxs"
+  dbname: serverInfo
+  precision: s
+#磁盘监控路径
+path: "/data"
+# 缓存数量
+buffer: 100

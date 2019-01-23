@@ -1,0 +1,16 @@
+[Unit]
+Description=Airflow scheduler daemon
+After=network.target
+
+[Service]
+Environment=AIRFLOW_HOME=/opt/airflow
+Environment=AIRFLOW_CONFIG=/opt/airflow/airflow.cfg
+User=root
+Group=root
+Type=simple
+ExecStart=/usr/local/bin/airflow scheduler
+Restart=always
+RestartSec=5s
+
+[Install]
+WantedBy=multi-user.target

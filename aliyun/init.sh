@@ -1,0 +1,62 @@
+#!/bin/bash
+HOST="host"
+GROUP="aliyun"
+NUM=20
+#修改hosts文件
+function modifyHosts(){
+for line in $(cat $HOST);do
+	ip=`echo $line|awk -F ':' '{print $1}'` #ip
+	name=`echo $line|awk -F ':' '{print $2}'` #别名
+        hline=`echo ${line//:/ }`
+	#echo $name
+	#echo "ssh -i ~/.ssh/derek root@$ip \"hostnamectl set-hostname $name\""
+	ssh -i ~/.ssh/derek root@$name "hostnamectl set-hostname $name"	
+	ansible $GROUP -m shell -a "echo \"$hline\" >> /etc/hosts" -f $NUM 
+done
+}
+#防火墙添加端口
+function setFirewalld(){
+ansible aliyun -m shell -a "systemctl start firewalld" -f $NUM 
+ local tcpport="3306 9866 1527 9000 50010 50070 50075 50475 50020 50470 50090 8000-9000 10020 19888 60000 60010 60020 61130 2181 2888 3888 9083 10000 9864"
+ for i in $tcpport
+   do
+   ansible $GROUP -m shell -a "firewall-cmd --permanent --add-port=$i/tcp" -f $NUM
+   ansible $GROUP -m shell -a "firewall-cmd --add-port=$i/tcp" -f $NUM 
+   done
+ local udpport="53"
+ for i in $udpport
+   do
+   ansible $GROUP -m shell -a "firewall-cmd --permanent --add-port=$i/udp" -f $NUM
+   ansible $GROUP -m shell -a "firewall-cmd --add-port=$i/udp" -f $NUM 
+   done
+}
+#禁用selinux
+function disableSelinux(){
+ansible $GROUP -m shell -a "sed -i '/SELINUX/s/enforcing/disabled/' /etc/selinux/config" -f $NUM
+ansible $GROUP -m shell -a "setenforce 0" -f $NUM #临时失效
+}
+
+#格式化data盘并mount
+function fdiskAndMount(){
+  local disk="/dev/vdb"
+  ansible $GROUP -m shell -a "sh -c '/bin/echo -e \"n\np\n\n\n\nw\n\"' | fdisk $disk" 
+  ansible $GROUP -m shell -a "mkfs.xfs -f $disk" 
+  ansible $GROUP -m shell -a "mkdir -p /data && mount $disk /data" 
+  ansible $GROUP -m shell -a "echo \"$disk /data xfs defaults 0 0\" >> /etc/fstab" 
+}
+#修改时区,同步时间
+function setUTC(){
+ansible $GROUP -m shell -a "rm -rf /etc/localtime" -f 10
+ansible $GROUP -m shell -a "ln -s /usr/share/zoneinfo/UTC /etc/localtime" -f 10
+ansible $GROUP -m shell -a "yum -y install ntp ntpdate" -f 10
+ansible $GROUP -m shell -a "ntpdate ntp2.aliyun.com" -f 10
+ansible $GROUP -m shell -a "hwclock --systohc" -f 10
+}
+function main(){
+#disableSelinux
+#setFirewalld
+#modifyHosts
+#fdiskAndMount
+setUTC
+}
+main

@@ -1,0 +1,14 @@
+$ttl 38400
+nb.com.        IN      SOA     172.16.58.61. derek.nb.com. (
+                        1474992197
+                        10800
+                        3600
+                        604800
+                        38400 )
+nb.com.                     IN        NS     172.16.58.61.
+#dr.nb.com.                 IN        CNAME  gateway
+msg.nb.com.                 IN        A      172.16.58.64 
+mq.nb.com.                  IN        A      172.16.58.63 
+mq2.nb.com.                 IN        A      172.16.58.72
+kafka.nb.com.               IN        A      172.16.58.62
+

@@ -1,0 +1,11 @@
+$ttl 38400
+uab.com.        IN      SOA     116.228.39.114. derek.uab.com. (
+                        1474992197
+                        10800
+                        3600
+                        604800
+                        38400 )
+                            IN        NS     116.228.39.114.
+git.uab.com.                IN        CNAME  gateway
+gateway.uab.com.            IN        A      116.228.39.114
+

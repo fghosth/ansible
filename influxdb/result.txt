@@ -1,0 +1,2322 @@
+===========检查tracking_AffiliateNetworkID_Brand,tag_Brand=================
+dbg3s1.com | SUCCESS | rc=0 >>
+4539
+dbg1s1.com | SUCCESS | rc=0 >>
+1904
+dbg4s1.com | SUCCESS | rc=0 >>
+2503
+dbg2s1.com | SUCCESS | rc=0 >>
+2924
+===========检查tracking_AffiliateNetworkID_Browser,tag_Browser=================
+dbg3s1.com | SUCCESS | rc=0 >>
+560
+dbg1s1.com | SUCCESS | rc=0 >>
+847
+dbg2s1.com | SUCCESS | rc=0 >>
+582
+dbg4s1.com | SUCCESS | rc=0 >>
+244
+===========检查tracking_AffiliateNetworkID_BrowserVersion,tag_BrowserVersion=================
+dbg3s1.com | SUCCESS | rc=0 >>
+15074
+dbg4s1.com | SUCCESS | rc=0 >>
+7020
+dbg1s1.com | SUCCESS | rc=0 >>
+7749
+dbg2s1.com | SUCCESS | rc=0 >>
+4982
+===========检查tracking_AffiliateNetworkID_CampaignID,tag_CampaignID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+367
+dbg1s1.com | SUCCESS | rc=0 >>
+306
+dbg2s1.com | SUCCESS | rc=0 >>
+554
+dbg4s1.com | SUCCESS | rc=0 >>
+365
+===========检查tracking_AffiliateNetworkID_City,tag_City=================
+dbg3s1.com | SUCCESS | rc=0 >>
+69966
+dbg1s1.com | SUCCESS | rc=0 >>
+27406
+dbg2s1.com | SUCCESS | rc=0 >>
+33672
+dbg4s1.com | SUCCESS | rc=0 >>
+30433
+===========检查tracking_AffiliateNetworkID_ConnectionType,tag_ConnectionType=================
+dbg3s1.com | SUCCESS | rc=0 >>
+7
+dbg2s1.com | SUCCESS | rc=0 >>
+7
+dbg4s1.com | SUCCESS | rc=0 >>
+7
+dbg1s1.com | SUCCESS | rc=0 >>
+7
+===========检查tracking_AffiliateNetworkID_Country,tag_Country=================
+dbg3s1.com | SUCCESS | rc=0 >>
+233
+dbg4s1.com | SUCCESS | rc=0 >>
+216
+dbg1s1.com | SUCCESS | rc=0 >>
+168
+dbg2s1.com | SUCCESS | rc=0 >>
+226
+===========检查tracking_AffiliateNetworkID_DeviceType,tag_DeviceType=================
+dbg3s1.com | SUCCESS | rc=0 >>
+5
+dbg1s1.com | SUCCESS | rc=0 >>
+5
+dbg4s1.com | SUCCESS | rc=0 >>
+5
+dbg2s1.com | SUCCESS | rc=0 >>
+5
+===========检查tracking_AffiliateNetworkID_Domain,tag_Domain=================
+dbg3s1.com | SUCCESS | rc=0 >>
+9459
+dbg4s1.com | SUCCESS | rc=0 >>
+5808
+dbg1s1.com | SUCCESS | rc=0 >>
+8808
+dbg2s1.com | SUCCESS | rc=0 >>
+2679
+===========检查tracking_AffiliateNetworkID_FlowID,tag_FlowID=================
+dbg4s1.com | SUCCESS | rc=0 >>
+274
+dbg3s1.com | SUCCESS | rc=0 >>
+271
+dbg2s1.com | SUCCESS | rc=0 >>
+507
+dbg1s1.com | SUCCESS | rc=0 >>
+208
+===========检查tracking_AffiliateNetworkID_ISP,tag_ISP=================
+dbg3s1.com | SUCCESS | rc=0 >>
+62182
+dbg4s1.com | SUCCESS | rc=0 >>
+22379
+dbg1s1.com | SUCCESS | rc=0 >>
+15335
+dbg2s1.com | SUCCESS | rc=0 >>
+23198
+===========检查tracking_AffiliateNetworkID_LanderID,tag_LanderID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+38
+dbg1s1.com | SUCCESS | rc=0 >>
+57
+dbg2s1.com | SUCCESS | rc=0 >>
+91
+dbg4s1.com | SUCCESS | rc=0 >>
+89
+===========检查tracking_AffiliateNetworkID_Language,tag_Language=================
+dbg3s1.com | SUCCESS | rc=0 >>
+842
+dbg1s1.com | SUCCESS | rc=0 >>
+483
+dbg4s1.com | SUCCESS | rc=0 >>
+513
+dbg2s1.com | SUCCESS | rc=0 >>
+637
+===========检查tracking_AffiliateNetworkID_MobileCarrier,tag_MobileCarrier=================
+dbg3s1.com | SUCCESS | rc=0 >>
+535
+dbg1s1.com | SUCCESS | rc=0 >>
+322
+dbg4s1.com | SUCCESS | rc=0 >>
+449
+dbg2s1.com | SUCCESS | rc=0 >>
+487
+===========检查tracking_AffiliateNetworkID_Model,tag_Model=================
+dbg3s1.com | SUCCESS | rc=0 >>
+31195
+dbg1s1.com | SUCCESS | rc=0 >>
+12402
+dbg4s1.com | SUCCESS | rc=0 >>
+16400
+dbg2s1.com | SUCCESS | rc=0 >>
+19344
+===========检查tracking_AffiliateNetworkID_OS,tag_OS=================
+dbg3s1.com | SUCCESS | rc=0 >>
+397
+dbg4s1.com | SUCCESS | rc=0 >>
+257
+dbg1s1.com | SUCCESS | rc=0 >>
+210
+dbg2s1.com | SUCCESS | rc=0 >>
+223
+===========检查tracking_AffiliateNetworkID_OSVersion,tag_OSVersion=================
+dbg3s1.com | SUCCESS | rc=0 >>
+2061
+dbg4s1.com | SUCCESS | rc=0 >>
+1329
+dbg1s1.com | SUCCESS | rc=0 >>
+805
+dbg2s1.com | SUCCESS | rc=0 >>
+1409
+===========检查tracking_AffiliateNetworkID_OfferID,tag_OfferID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+251
+dbg1s1.com | SUCCESS | rc=0 >>
+232
+dbg4s1.com | SUCCESS | rc=0 >>
+190
+dbg2s1.com | SUCCESS | rc=0 >>
+434
+===========检查tracking_AffiliateNetworkID_Region,tag_Region=================
+dbg2s1.com | SUCCESS | rc=0 >>
+2971
+dbg3s1.com | SUCCESS | rc=0 >>
+3164
+dbg1s1.com | SUCCESS | rc=0 >>
+1412
+dbg4s1.com | SUCCESS | rc=0 >>
+2254
+===========检查tracking_AffiliateNetworkID_TrafficSourceID,tag_TrafficSourceID=================
+dbg2s1.com | SUCCESS | rc=0 >>
+303
+dbg4s1.com | SUCCESS | rc=0 >>
+108
+dbg1s1.com | SUCCESS | rc=0 >>
+93
+dbg3s1.com | SUCCESS | rc=0 >>
+78
+===========检查tracking_AffiliateNetworkID_V1,tag_V1=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_AffiliateNetworkID_V10,tag_V10=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_AffiliateNetworkID_V2,tag_V2=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_AffiliateNetworkID_V3,tag_V3=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_AffiliateNetworkID_V4,tag_V4=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_AffiliateNetworkID_V5,tag_V5=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_AffiliateNetworkID_V6,tag_V6=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_AffiliateNetworkID_V7,tag_V7=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_AffiliateNetworkID_V8,tag_V8=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_AffiliateNetworkID_V9,tag_V9=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_AffiliateNetworkID_ip,tag_ip=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_AffiliateNetworkID_tsCampaignId,tag_tsCampaignId=================
+dbg3s1.com | SUCCESS | rc=0 >>
+144
+dbg4s1.com | SUCCESS | rc=0 >>
+106
+dbg2s1.com | SUCCESS | rc=0 >>
+161
+dbg1s1.com | SUCCESS | rc=0 >>
+242
+===========检查tracking_AffiliateNetworkID_tsWebsiteId,tag_tsWebsiteId=================
+dbg3s1.com | SUCCESS | rc=0 >>
+14573
+dbg2s1.com | SUCCESS | rc=0 >>
+45267
+dbg4s1.com | SUCCESS | rc=0 >>
+358649
+dbg1s1.com | SUCCESS | rc=0 >>
+118285
+===========检查tracking_AffiliateNetworkID_v1,tag_v1=================
+dbg3s1.com | SUCCESS | rc=0 >>
+37666
+dbg1s1.com | SUCCESS | rc=0 >>
+7635
+dbg4s1.com | SUCCESS | rc=0 >>
+24833
+dbg2s1.com | SUCCESS | rc=0 >>
+191785
+===========检查tracking_AffiliateNetworkID_v10,tag_v10=================
+dbg3s1.com | SUCCESS | rc=0 >>
+17
+dbg1s1.com | SUCCESS | rc=0 >>
+87
+dbg2s1.com | SUCCESS | rc=0 >>
+23
+dbg4s1.com | SUCCESS | rc=0 >>
+217711
+===========检查tracking_AffiliateNetworkID_v2,tag_v2=================
+dbg3s1.com | SUCCESS | rc=0 >>
+22231
+dbg4s1.com | SUCCESS | rc=0 >>
+5207
+dbg1s1.com | SUCCESS | rc=0 >>
+2186
+dbg2s1.com | SUCCESS | rc=0 >>
+547
+===========检查tracking_AffiliateNetworkID_v3,tag_v3=================
+dbg3s1.com | SUCCESS | rc=0 >>
+94687
+dbg2s1.com | SUCCESS | rc=0 >>
+35719
+dbg1s1.com | SUCCESS | rc=0 >>
+66460
+dbg4s1.com | SUCCESS | rc=0 >>
+325593
+===========检查tracking_AffiliateNetworkID_v4,tag_v4=================
+dbg1s1.com | SUCCESS | rc=0 >>
+2192
+dbg3s1.com | SUCCESS | rc=0 >>
+83299
+dbg4s1.com | SUCCESS | rc=0 >>
+28954
+dbg2s1.com | SUCCESS | rc=0 >>
+1237
+===========检查tracking_AffiliateNetworkID_v5,tag_v5=================
+dbg2s1.com | SUCCESS | rc=0 >>
+10134
+dbg1s1.com | SUCCESS | rc=0 >>
+3696
+dbg4s1.com | SUCCESS | rc=0 >>
+93593
+dbg3s1.com | SUCCESS | rc=0 >>
+152597
+===========检查tracking_AffiliateNetworkID_v6,tag_v6=================
+dbg3s1.com | SUCCESS | rc=0 >>
+2409
+dbg2s1.com | SUCCESS | rc=0 >>
+12544
+dbg4s1.com | SUCCESS | rc=0 >>
+1116
+dbg1s1.com | SUCCESS | rc=0 >>
+42706
+===========检查tracking_AffiliateNetworkID_v7,tag_v7=================
+dbg3s1.com | SUCCESS | rc=0 >>
+22
+dbg4s1.com | SUCCESS | rc=0 >>
+43
+dbg1s1.com | SUCCESS | rc=0 >>
+180
+dbg2s1.com | SUCCESS | rc=0 >>
+232
+===========检查tracking_AffiliateNetworkID_v8,tag_v8=================
+dbg3s1.com | SUCCESS | rc=0 >>
+1014
+dbg4s1.com | SUCCESS | rc=0 >>
+619
+dbg2s1.com | SUCCESS | rc=0 >>
+2354
+dbg1s1.com | SUCCESS | rc=0 >>
+4080
+===========检查tracking_AffiliateNetworkID_v9,tag_v9=================
+dbg3s1.com | SUCCESS | rc=0 >>
+1007
+dbg4s1.com | SUCCESS | rc=0 >>
+756
+dbg2s1.com | SUCCESS | rc=0 >>
+2334
+dbg1s1.com | SUCCESS | rc=0 >>
+1891
+===========检查tracking_CampaignID_AffiliateNetworkID,tag_AffiliateNetworkID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+33
+dbg1s1.com | SUCCESS | rc=0 >>
+46
+dbg2s1.com | SUCCESS | rc=0 >>
+74
+dbg4s1.com | SUCCESS | rc=0 >>
+38
+===========检查tracking_CampaignID_Brand,tag_Brand=================
+dbg3s1.com | SUCCESS | rc=0 >>
+4540
+dbg4s1.com | SUCCESS | rc=0 >>
+2503
+dbg1s1.com | SUCCESS | rc=0 >>
+1903
+dbg2s1.com | SUCCESS | rc=0 >>
+2922
+===========检查tracking_CampaignID_Browser,tag_Browser=================
+dbg3s1.com | SUCCESS | rc=0 >>
+560
+dbg4s1.com | SUCCESS | rc=0 >>
+244
+dbg1s1.com | SUCCESS | rc=0 >>
+847
+dbg2s1.com | SUCCESS | rc=0 >>
+582
+===========检查tracking_CampaignID_BrowserVersion,tag_BrowserVersion=================
+dbg3s1.com | SUCCESS | rc=0 >>
+15074
+dbg4s1.com | SUCCESS | rc=0 >>
+7019
+dbg1s1.com | SUCCESS | rc=0 >>
+7749
+dbg2s1.com | SUCCESS | rc=0 >>
+4981
+===========检查tracking_CampaignID_City,tag_City=================
+dbg3s1.com | SUCCESS | rc=0 >>
+69872
+dbg4s1.com | SUCCESS | rc=0 >>
+30417
+dbg1s1.com | SUCCESS | rc=0 >>
+27407
+dbg2s1.com | SUCCESS | rc=0 >>
+33617
+===========检查tracking_CampaignID_ConnectionType,tag_ConnectionType=================
+dbg3s1.com | SUCCESS | rc=0 >>
+7
+dbg4s1.com | SUCCESS | rc=0 >>
+7
+dbg1s1.com | SUCCESS | rc=0 >>
+7
+dbg2s1.com | SUCCESS | rc=0 >>
+7
+===========检查tracking_CampaignID_Country,tag_Country=================
+dbg4s1.com | SUCCESS | rc=0 >>
+216
+dbg2s1.com | SUCCESS | rc=0 >>
+226
+dbg3s1.com | SUCCESS | rc=0 >>
+233
+dbg1s1.com | SUCCESS | rc=0 >>
+168
+===========检查tracking_CampaignID_DeviceType,tag_DeviceType=================
+dbg4s1.com | SUCCESS | rc=0 >>
+5
+dbg3s1.com | SUCCESS | rc=0 >>
+5
+dbg1s1.com | SUCCESS | rc=0 >>
+5
+dbg2s1.com | SUCCESS | rc=0 >>
+5
+===========检查tracking_CampaignID_Domain,tag_Domain=================
+dbg3s1.com | SUCCESS | rc=0 >>
+9463
+dbg1s1.com | SUCCESS | rc=0 >>
+8809
+dbg2s1.com | SUCCESS | rc=0 >>
+2677
+dbg4s1.com | SUCCESS | rc=0 >>
+5805
+===========检查tracking_CampaignID_FlowID,tag_FlowID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+271
+dbg2s1.com | SUCCESS | rc=0 >>
+507
+dbg1s1.com | SUCCESS | rc=0 >>
+208
+dbg4s1.com | SUCCESS | rc=0 >>
+274
+===========检查tracking_CampaignID_ISP,tag_ISP=================
+dbg3s1.com | SUCCESS | rc=0 >>
+61922
+dbg2s1.com | SUCCESS | rc=0 >>
+23040
+dbg1s1.com | SUCCESS | rc=0 >>
+15333
+dbg4s1.com | SUCCESS | rc=0 >>
+22194
+===========检查tracking_CampaignID_LanderID,tag_LanderID=================
+dbg4s1.com | SUCCESS | rc=0 >>
+89
+dbg3s1.com | SUCCESS | rc=0 >>
+38
+dbg1s1.com | SUCCESS | rc=0 >>
+57
+dbg2s1.com | SUCCESS | rc=0 >>
+91
+===========检查tracking_CampaignID_Language,tag_Language=================
+dbg3s1.com | SUCCESS | rc=0 >>
+842
+dbg1s1.com | SUCCESS | rc=0 >>
+483
+dbg2s1.com | SUCCESS | rc=0 >>
+635
+dbg4s1.com | SUCCESS | rc=0 >>
+513
+===========检查tracking_CampaignID_MobileCarrier,tag_MobileCarrier=================
+dbg1s1.com | SUCCESS | rc=0 >>
+322
+dbg3s1.com | SUCCESS | rc=0 >>
+535
+dbg2s1.com | SUCCESS | rc=0 >>
+487
+dbg4s1.com | SUCCESS | rc=0 >>
+449
+===========检查tracking_CampaignID_Model,tag_Model=================
+dbg4s1.com | SUCCESS | rc=0 >>
+16325
+dbg2s1.com | SUCCESS | rc=0 >>
+19100
+dbg3s1.com | SUCCESS | rc=0 >>
+31146
+dbg1s1.com | SUCCESS | rc=0 >>
+12402
+===========检查tracking_CampaignID_OS,tag_OS=================
+dbg3s1.com | SUCCESS | rc=0 >>
+397
+dbg1s1.com | SUCCESS | rc=0 >>
+210
+dbg2s1.com | SUCCESS | rc=0 >>
+223
+dbg4s1.com | SUCCESS | rc=0 >>
+257
+===========检查tracking_CampaignID_OSVersion,tag_OSVersion=================
+dbg3s1.com | SUCCESS | rc=0 >>
+2060
+dbg1s1.com | SUCCESS | rc=0 >>
+805
+dbg2s1.com | SUCCESS | rc=0 >>
+1409
+dbg4s1.com | SUCCESS | rc=0 >>
+1328
+===========检查tracking_CampaignID_OfferID,tag_OfferID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+251
+dbg2s1.com | SUCCESS | rc=0 >>
+434
+dbg4s1.com | SUCCESS | rc=0 >>
+190
+dbg1s1.com | SUCCESS | rc=0 >>
+232
+===========检查tracking_CampaignID_Region,tag_Region=================
+dbg3s1.com | SUCCESS | rc=0 >>
+3164
+dbg4s1.com | SUCCESS | rc=0 >>
+2254
+dbg2s1.com | SUCCESS | rc=0 >>
+2971
+dbg1s1.com | SUCCESS | rc=0 >>
+1412
+===========检查tracking_CampaignID_TrafficSourceID,tag_TrafficSourceID=================
+dbg2s1.com | SUCCESS | rc=0 >>
+303
+dbg3s1.com | SUCCESS | rc=0 >>
+78
+dbg4s1.com | SUCCESS | rc=0 >>
+108
+dbg1s1.com | SUCCESS | rc=0 >>
+93
+===========检查tracking_CampaignID_V1,tag_V1=================
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_CampaignID_V10,tag_V10=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_CampaignID_V2,tag_V2=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_CampaignID_V3,tag_V3=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_CampaignID_V4,tag_V4=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_CampaignID_V5,tag_V5=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_CampaignID_V6,tag_V6=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_CampaignID_V7,tag_V7=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_CampaignID_V8,tag_V8=================
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_CampaignID_V9,tag_V9=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_CampaignID_ip,tag_ip=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_CampaignID_tsCampaignId,tag_tsCampaignId=================
+dbg3s1.com | SUCCESS | rc=0 >>
+144
+dbg2s1.com | SUCCESS | rc=0 >>
+161
+dbg1s1.com | SUCCESS | rc=0 >>
+242
+dbg4s1.com | SUCCESS | rc=0 >>
+106
+===========检查tracking_CampaignID_tsWebsiteId,tag_tsWebsiteId=================
+dbg3s1.com | SUCCESS | rc=0 >>
+14573
+dbg2s1.com | SUCCESS | rc=0 >>
+45268
+dbg1s1.com | SUCCESS | rc=0 >>
+118310
+dbg4s1.com | SUCCESS | rc=0 >>
+359187
+===========检查tracking_CampaignID_v1,tag_v1=================
+dbg3s1.com | SUCCESS | rc=0 >>
+37666
+dbg2s1.com | SUCCESS | rc=0 >>
+191961
+dbg1s1.com | SUCCESS | rc=0 >>
+7635
+dbg4s1.com | SUCCESS | rc=0 >>
+24835
+===========检查tracking_CampaignID_v10,tag_v10=================
+dbg3s1.com | SUCCESS | rc=0 >>
+17
+dbg1s1.com | SUCCESS | rc=0 >>
+87
+dbg2s1.com | SUCCESS | rc=0 >>
+23
+dbg4s1.com | SUCCESS | rc=0 >>
+217711
+===========检查tracking_CampaignID_v2,tag_v2=================
+dbg1s1.com | SUCCESS | rc=0 >>
+2182
+dbg3s1.com | SUCCESS | rc=0 >>
+22229
+dbg2s1.com | SUCCESS | rc=0 >>
+547
+dbg4s1.com | SUCCESS | rc=0 >>
+5206
+===========检查tracking_CampaignID_v3,tag_v3=================
+dbg4s1.com | SUCCESS | rc=0 >>
+325986
+dbg1s1.com | SUCCESS | rc=0 >>
+66474
+dbg2s1.com | SUCCESS | rc=0 >>
+35719
+dbg3s1.com | SUCCESS | rc=0 >>
+94689
+===========检查tracking_CampaignID_v4,tag_v4=================
+dbg3s1.com | SUCCESS | rc=0 >>
+83300
+dbg2s1.com | SUCCESS | rc=0 >>
+1237
+dbg1s1.com | SUCCESS | rc=0 >>
+2192
+dbg4s1.com | SUCCESS | rc=0 >>
+28954
+===========检查tracking_CampaignID_v5,tag_v5=================
+dbg2s1.com | SUCCESS | rc=0 >>
+10136
+dbg1s1.com | SUCCESS | rc=0 >>
+3696
+dbg4s1.com | SUCCESS | rc=0 >>
+93597
+dbg3s1.com | SUCCESS | rc=0 >>
+152720
+===========检查tracking_CampaignID_v6,tag_v6=================
+dbg3s1.com | SUCCESS | rc=0 >>
+2408
+dbg4s1.com | SUCCESS | rc=0 >>
+1116
+dbg1s1.com | SUCCESS | rc=0 >>
+42711
+dbg2s1.com | SUCCESS | rc=0 >>
+12544
+===========检查tracking_CampaignID_v7,tag_v7=================
+dbg3s1.com | SUCCESS | rc=0 >>
+22
+dbg4s1.com | SUCCESS | rc=0 >>
+43
+dbg1s1.com | SUCCESS | rc=0 >>
+180
+dbg2s1.com | SUCCESS | rc=0 >>
+232
+===========检查tracking_CampaignID_v8,tag_v8=================
+dbg2s1.com | SUCCESS | rc=0 >>
+2354
+dbg3s1.com | SUCCESS | rc=0 >>
+1014
+dbg1s1.com | SUCCESS | rc=0 >>
+4077
+dbg4s1.com | SUCCESS | rc=0 >>
+619
+===========检查tracking_CampaignID_v9,tag_v9=================
+dbg3s1.com | SUCCESS | rc=0 >>
+1007
+dbg2s1.com | SUCCESS | rc=0 >>
+2334
+dbg1s1.com | SUCCESS | rc=0 >>
+1891
+dbg4s1.com | SUCCESS | rc=0 >>
+756
+===========检查tracking_FlowID_AffiliateNetworkID,tag_AffiliateNetworkID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+33
+dbg1s1.com | SUCCESS | rc=0 >>
+46
+dbg2s1.com | SUCCESS | rc=0 >>
+74
+dbg4s1.com | SUCCESS | rc=0 >>
+38
+===========检查tracking_FlowID_Brand,tag_Brand=================
+dbg1s1.com | SUCCESS | rc=0 >>
+1904
+dbg3s1.com | SUCCESS | rc=0 >>
+4540
+dbg2s1.com | SUCCESS | rc=0 >>
+2924
+dbg4s1.com | SUCCESS | rc=0 >>
+2504
+===========检查tracking_FlowID_Browser,tag_Browser=================
+dbg2s1.com | SUCCESS | rc=0 >>
+582
+dbg1s1.com | SUCCESS | rc=0 >>
+847
+dbg4s1.com | SUCCESS | rc=0 >>
+244
+dbg3s1.com | SUCCESS | rc=0 >>
+560
+===========检查tracking_FlowID_BrowserVersion,tag_BrowserVersion=================
+dbg2s1.com | SUCCESS | rc=0 >>
+4983
+dbg3s1.com | SUCCESS | rc=0 >>
+15074
+dbg1s1.com | SUCCESS | rc=0 >>
+7751
+dbg4s1.com | SUCCESS | rc=0 >>
+7021
+===========检查tracking_FlowID_CampaignID,tag_CampaignID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+367
+dbg4s1.com | SUCCESS | rc=0 >>
+365
+dbg1s1.com | SUCCESS | rc=0 >>
+306
+dbg2s1.com | SUCCESS | rc=0 >>
+554
+===========检查tracking_FlowID_City,tag_City=================
+dbg3s1.com | SUCCESS | rc=0 >>
+69968
+dbg2s1.com | SUCCESS | rc=0 >>
+33674
+dbg4s1.com | SUCCESS | rc=0 >>
+30436
+dbg1s1.com | SUCCESS | rc=0 >>
+27408
+===========检查tracking_FlowID_ConnectionType,tag_ConnectionType=================
+dbg3s1.com | SUCCESS | rc=0 >>
+7
+dbg4s1.com | SUCCESS | rc=0 >>
+7
+dbg1s1.com | SUCCESS | rc=0 >>
+7
+dbg2s1.com | SUCCESS | rc=0 >>
+7
+===========检查tracking_FlowID_Country,tag_Country=================
+dbg4s1.com | SUCCESS | rc=0 >>
+216
+dbg3s1.com | SUCCESS | rc=0 >>
+233
+dbg1s1.com | SUCCESS | rc=0 >>
+168
+dbg2s1.com | SUCCESS | rc=0 >>
+226
+===========检查tracking_FlowID_DeviceType,tag_DeviceType=================
+dbg3s1.com | SUCCESS | rc=0 >>
+5
+dbg2s1.com | SUCCESS | rc=0 >>
+5
+dbg4s1.com | SUCCESS | rc=0 >>
+5
+dbg1s1.com | SUCCESS | rc=0 >>
+5
+===========检查tracking_FlowID_Domain,tag_Domain=================
+dbg3s1.com | SUCCESS | rc=0 >>
+9465
+dbg1s1.com | SUCCESS | rc=0 >>
+8812
+dbg4s1.com | SUCCESS | rc=0 >>
+5808
+dbg2s1.com | SUCCESS | rc=0 >>
+2679
+===========检查tracking_FlowID_ISP,tag_ISP=================
+dbg3s1.com | SUCCESS | rc=0 >>
+62206
+dbg2s1.com | SUCCESS | rc=0 >>
+23204
+dbg4s1.com | SUCCESS | rc=0 >>
+22386
+dbg1s1.com | SUCCESS | rc=0 >>
+15339
+===========检查tracking_FlowID_LanderID,tag_LanderID=================
+dbg2s1.com | SUCCESS | rc=0 >>
+91
+dbg1s1.com | SUCCESS | rc=0 >>
+57
+dbg3s1.com | SUCCESS | rc=0 >>
+38
+dbg4s1.com | SUCCESS | rc=0 >>
+89
+===========检查tracking_FlowID_Language,tag_Language=================
+dbg3s1.com | SUCCESS | rc=0 >>
+842
+dbg4s1.com | SUCCESS | rc=0 >>
+513
+dbg2s1.com | SUCCESS | rc=0 >>
+637
+dbg1s1.com | SUCCESS | rc=0 >>
+483
+===========检查tracking_FlowID_MobileCarrier,tag_MobileCarrier=================
+dbg3s1.com | SUCCESS | rc=0 >>
+535
+dbg2s1.com | SUCCESS | rc=0 >>
+487
+dbg4s1.com | SUCCESS | rc=0 >>
+449
+dbg1s1.com | SUCCESS | rc=0 >>
+322
+===========检查tracking_FlowID_Model,tag_Model=================
+dbg3s1.com | SUCCESS | rc=0 >>
+31197
+dbg4s1.com | SUCCESS | rc=0 >>
+16402
+dbg2s1.com | SUCCESS | rc=0 >>
+19347
+dbg1s1.com | SUCCESS | rc=0 >>
+12402
+===========检查tracking_FlowID_OS,tag_OS=================
+dbg3s1.com | SUCCESS | rc=0 >>
+397
+dbg2s1.com | SUCCESS | rc=0 >>
+223
+dbg1s1.com | SUCCESS | rc=0 >>
+210
+dbg4s1.com | SUCCESS | rc=0 >>
+257
+===========检查tracking_FlowID_OSVersion,tag_OSVersion=================
+dbg4s1.com | SUCCESS | rc=0 >>
+1329
+dbg3s1.com | SUCCESS | rc=0 >>
+2061
+dbg2s1.com | SUCCESS | rc=0 >>
+1409
+dbg1s1.com | SUCCESS | rc=0 >>
+805
+===========检查tracking_FlowID_OfferID,tag_OfferID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+251
+dbg2s1.com | SUCCESS | rc=0 >>
+434
+dbg1s1.com | SUCCESS | rc=0 >>
+232
+dbg4s1.com | SUCCESS | rc=0 >>
+190
+===========检查tracking_FlowID_Region,tag_Region=================
+dbg3s1.com | SUCCESS | rc=0 >>
+3164
+dbg1s1.com | SUCCESS | rc=0 >>
+1412
+dbg4s1.com | SUCCESS | rc=0 >>
+2254
+dbg2s1.com | SUCCESS | rc=0 >>
+2971
+===========检查tracking_FlowID_TrafficSourceID,tag_TrafficSourceID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+78
+dbg1s1.com | SUCCESS | rc=0 >>
+93
+dbg4s1.com | SUCCESS | rc=0 >>
+108
+dbg2s1.com | SUCCESS | rc=0 >>
+303
+===========检查tracking_FlowID_V1,tag_V1=================
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_FlowID_V10,tag_V10=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_FlowID_V2,tag_V2=================
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_FlowID_V3,tag_V3=================
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_FlowID_V4,tag_V4=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_FlowID_V5,tag_V5=================
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_FlowID_V6,tag_V6=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_FlowID_V7,tag_V7=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_FlowID_V8,tag_V8=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_FlowID_V9,tag_V9=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_FlowID_ip,tag_ip=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_FlowID_tsCampaignId,tag_tsCampaignId=================
+dbg1s1.com | SUCCESS | rc=0 >>
+242
+dbg3s1.com | SUCCESS | rc=0 >>
+144
+dbg2s1.com | SUCCESS | rc=0 >>
+161
+dbg4s1.com | SUCCESS | rc=0 >>
+106
+===========检查tracking_FlowID_tsWebsiteId,tag_tsWebsiteId=================
+dbg2s1.com | SUCCESS | rc=0 >>
+45268
+dbg1s1.com | SUCCESS | rc=0 >>
+118323
+dbg3s1.com | SUCCESS | rc=0 >>
+14574
+dbg4s1.com | SUCCESS | rc=0 >>
+359719
+===========检查tracking_FlowID_v1,tag_v1=================
+dbg3s1.com | SUCCESS | rc=0 >>
+37666
+dbg1s1.com | SUCCESS | rc=0 >>
+7635
+dbg4s1.com | SUCCESS | rc=0 >>
+24835
+dbg2s1.com | SUCCESS | rc=0 >>
+191908
+===========检查tracking_FlowID_v10,tag_v10=================
+dbg3s1.com | SUCCESS | rc=0 >>
+17
+dbg1s1.com | SUCCESS | rc=0 >>
+87
+dbg2s1.com | SUCCESS | rc=0 >>
+23
+dbg4s1.com | SUCCESS | rc=0 >>
+217711
+===========检查tracking_FlowID_v2,tag_v2=================
+dbg3s1.com | SUCCESS | rc=0 >>
+22233
+dbg1s1.com | SUCCESS | rc=0 >>
+2186
+dbg4s1.com | SUCCESS | rc=0 >>
+5207
+dbg2s1.com | SUCCESS | rc=0 >>
+548
+===========检查tracking_FlowID_v3,tag_v3=================
+dbg1s1.com | SUCCESS | rc=0 >>
+66486
+dbg3s1.com | SUCCESS | rc=0 >>
+94692
+dbg2s1.com | SUCCESS | rc=0 >>
+35719
+dbg4s1.com | SUCCESS | rc=0 >>
+326318
+===========检查tracking_FlowID_v4,tag_v4=================
+dbg4s1.com | SUCCESS | rc=0 >>
+28954
+dbg3s1.com | SUCCESS | rc=0 >>
+83303
+dbg1s1.com | SUCCESS | rc=0 >>
+2192
+dbg2s1.com | SUCCESS | rc=0 >>
+1237
+===========检查tracking_FlowID_v5,tag_v5=================
+dbg1s1.com | SUCCESS | rc=0 >>
+3696
+dbg4s1.com | SUCCESS | rc=0 >>
+93598
+dbg2s1.com | SUCCESS | rc=0 >>
+10138
+dbg3s1.com | SUCCESS | rc=0 >>
+152795
+===========检查tracking_FlowID_v6,tag_v6=================
+dbg3s1.com | SUCCESS | rc=0 >>
+2409
+dbg1s1.com | SUCCESS | rc=0 >>
+42719
+dbg4s1.com | SUCCESS | rc=0 >>
+1116
+dbg2s1.com | SUCCESS | rc=0 >>
+12544
+===========检查tracking_FlowID_v7,tag_v7=================
+dbg3s1.com | SUCCESS | rc=0 >>
+22
+dbg4s1.com | SUCCESS | rc=0 >>
+43
+dbg1s1.com | SUCCESS | rc=0 >>
+180
+dbg2s1.com | SUCCESS | rc=0 >>
+232
+===========检查tracking_FlowID_v8,tag_v8=================
+dbg3s1.com | SUCCESS | rc=0 >>
+1014
+dbg4s1.com | SUCCESS | rc=0 >>
+619
+dbg1s1.com | SUCCESS | rc=0 >>
+4080
+dbg2s1.com | SUCCESS | rc=0 >>
+2354
+===========检查tracking_FlowID_v9,tag_v9=================
+dbg3s1.com | SUCCESS | rc=0 >>
+1007
+dbg4s1.com | SUCCESS | rc=0 >>
+756
+dbg2s1.com | SUCCESS | rc=0 >>
+2334
+dbg1s1.com | SUCCESS | rc=0 >>
+1891
+===========检查tracking_LanderID_AffiliateNetworkID,tag_AffiliateNetworkID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+33
+dbg4s1.com | SUCCESS | rc=0 >>
+38
+dbg1s1.com | SUCCESS | rc=0 >>
+46
+dbg2s1.com | SUCCESS | rc=0 >>
+74
+===========检查tracking_LanderID_Brand,tag_Brand=================
+dbg3s1.com | SUCCESS | rc=0 >>
+4540
+dbg4s1.com | SUCCESS | rc=0 >>
+2504
+dbg2s1.com | SUCCESS | rc=0 >>
+2924
+dbg1s1.com | SUCCESS | rc=0 >>
+1904
+===========检查tracking_LanderID_Browser,tag_Browser=================
+dbg4s1.com | SUCCESS | rc=0 >>
+244
+dbg3s1.com | SUCCESS | rc=0 >>
+560
+dbg1s1.com | SUCCESS | rc=0 >>
+847
+dbg2s1.com | SUCCESS | rc=0 >>
+582
+===========检查tracking_LanderID_BrowserVersion,tag_BrowserVersion=================
+dbg3s1.com | SUCCESS | rc=0 >>
+15075
+dbg2s1.com | SUCCESS | rc=0 >>
+4983
+dbg1s1.com | SUCCESS | rc=0 >>
+7751
+dbg4s1.com | SUCCESS | rc=0 >>
+7022
+===========检查tracking_LanderID_CampaignID,tag_CampaignID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+367
+dbg4s1.com | SUCCESS | rc=0 >>
+365
+dbg1s1.com | SUCCESS | rc=0 >>
+306
+dbg2s1.com | SUCCESS | rc=0 >>
+554
+===========检查tracking_LanderID_City,tag_City=================
+dbg3s1.com | SUCCESS | rc=0 >>
+69969
+dbg2s1.com | SUCCESS | rc=0 >>
+33675
+dbg4s1.com | SUCCESS | rc=0 >>
+30437
+dbg1s1.com | SUCCESS | rc=0 >>
+27410
+===========检查tracking_LanderID_ConnectionType,tag_ConnectionType=================
+dbg3s1.com | SUCCESS | rc=0 >>
+7
+dbg4s1.com | SUCCESS | rc=0 >>
+7
+dbg1s1.com | SUCCESS | rc=0 >>
+7
+dbg2s1.com | SUCCESS | rc=0 >>
+7
+===========检查tracking_LanderID_Country,tag_Country=================
+dbg4s1.com | SUCCESS | rc=0 >>
+216
+dbg1s1.com | SUCCESS | rc=0 >>
+168
+dbg3s1.com | SUCCESS | rc=0 >>
+233
+dbg2s1.com | SUCCESS | rc=0 >>
+226
+===========检查tracking_LanderID_DeviceType,tag_DeviceType=================
+dbg3s1.com | SUCCESS | rc=0 >>
+5
+dbg1s1.com | SUCCESS | rc=0 >>
+5
+dbg2s1.com | SUCCESS | rc=0 >>
+5
+dbg4s1.com | SUCCESS | rc=0 >>
+5
+===========检查tracking_LanderID_Domain,tag_Domain=================
+dbg3s1.com | SUCCESS | rc=0 >>
+9466
+dbg1s1.com | SUCCESS | rc=0 >>
+8814
+dbg4s1.com | SUCCESS | rc=0 >>
+5809
+dbg2s1.com | SUCCESS | rc=0 >>
+2679
+===========检查tracking_LanderID_FlowID,tag_FlowID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+271
+dbg4s1.com | SUCCESS | rc=0 >>
+274
+dbg1s1.com | SUCCESS | rc=0 >>
+208
+dbg2s1.com | SUCCESS | rc=0 >>
+507
+===========检查tracking_LanderID_ISP,tag_ISP=================
+dbg2s1.com | SUCCESS | rc=0 >>
+23207
+dbg1s1.com | SUCCESS | rc=0 >>
+15340
+dbg3s1.com | SUCCESS | rc=0 >>
+62216
+dbg4s1.com | SUCCESS | rc=0 >>
+22388
+===========检查tracking_LanderID_Language,tag_Language=================
+dbg3s1.com | SUCCESS | rc=0 >>
+842
+dbg2s1.com | SUCCESS | rc=0 >>
+637
+dbg4s1.com | SUCCESS | rc=0 >>
+513
+dbg1s1.com | SUCCESS | rc=0 >>
+483
+===========检查tracking_LanderID_MobileCarrier,tag_MobileCarrier=================
+dbg3s1.com | SUCCESS | rc=0 >>
+535
+dbg4s1.com | SUCCESS | rc=0 >>
+449
+dbg2s1.com | SUCCESS | rc=0 >>
+487
+dbg1s1.com | SUCCESS | rc=0 >>
+322
+===========检查tracking_LanderID_Model,tag_Model=================
+dbg3s1.com | SUCCESS | rc=0 >>
+31201
+dbg2s1.com | SUCCESS | rc=0 >>
+19348
+dbg1s1.com | SUCCESS | rc=0 >>
+12403
+dbg4s1.com | SUCCESS | rc=0 >>
+16402
+===========检查tracking_LanderID_OS,tag_OS=================
+dbg3s1.com | SUCCESS | rc=0 >>
+397
+dbg2s1.com | SUCCESS | rc=0 >>
+223
+dbg4s1.com | SUCCESS | rc=0 >>
+257
+dbg1s1.com | SUCCESS | rc=0 >>
+210
+===========检查tracking_LanderID_OSVersion,tag_OSVersion=================
+dbg1s1.com | SUCCESS | rc=0 >>
+805
+dbg3s1.com | SUCCESS | rc=0 >>
+2062
+dbg4s1.com | SUCCESS | rc=0 >>
+1329
+dbg2s1.com | SUCCESS | rc=0 >>
+1409
+===========检查tracking_LanderID_OfferID,tag_OfferID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+251
+dbg1s1.com | SUCCESS | rc=0 >>
+232
+dbg4s1.com | SUCCESS | rc=0 >>
+190
+dbg2s1.com | SUCCESS | rc=0 >>
+434
+===========检查tracking_LanderID_Region,tag_Region=================
+dbg3s1.com | SUCCESS | rc=0 >>
+3164
+dbg1s1.com | SUCCESS | rc=0 >>
+1412
+dbg4s1.com | SUCCESS | rc=0 >>
+2254
+dbg2s1.com | SUCCESS | rc=0 >>
+2971
+===========检查tracking_LanderID_TrafficSourceID,tag_TrafficSourceID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+78
+dbg4s1.com | SUCCESS | rc=0 >>
+108
+dbg2s1.com | SUCCESS | rc=0 >>
+303
+dbg1s1.com | SUCCESS | rc=0 >>
+93
+===========检查tracking_LanderID_V1,tag_V1=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_LanderID_V10,tag_V10=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_LanderID_V2,tag_V2=================
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_LanderID_V3,tag_V3=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_LanderID_V4,tag_V4=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_LanderID_V5,tag_V5=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_LanderID_V6,tag_V6=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_LanderID_V7,tag_V7=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_LanderID_V8,tag_V8=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_LanderID_V9,tag_V9=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_LanderID_ip,tag_ip=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_LanderID_tsCampaignId,tag_tsCampaignId=================
+dbg4s1.com | SUCCESS | rc=0 >>
+106
+dbg1s1.com | SUCCESS | rc=0 >>
+242
+dbg3s1.com | SUCCESS | rc=0 >>
+144
+dbg2s1.com | SUCCESS | rc=0 >>
+161
+===========检查tracking_LanderID_tsWebsiteId,tag_tsWebsiteId=================
+dbg2s1.com | SUCCESS | rc=0 >>
+45268
+dbg3s1.com | SUCCESS | rc=0 >>
+14574
+dbg1s1.com | SUCCESS | rc=0 >>
+118341
+dbg4s1.com | SUCCESS | rc=0 >>
+360271
+===========检查tracking_LanderID_v1,tag_v1=================
+dbg3s1.com | SUCCESS | rc=0 >>
+37666
+dbg1s1.com | SUCCESS | rc=0 >>
+7636
+dbg2s1.com | SUCCESS | rc=0 >>
+192001
+dbg4s1.com | SUCCESS | rc=0 >>
+24838
+===========检查tracking_LanderID_v10,tag_v10=================
+dbg3s1.com | SUCCESS | rc=0 >>
+17
+dbg2s1.com | SUCCESS | rc=0 >>
+23
+dbg1s1.com | SUCCESS | rc=0 >>
+87
+dbg4s1.com | SUCCESS | rc=0 >>
+217711
+===========检查tracking_LanderID_v2,tag_v2=================
+dbg3s1.com | SUCCESS | rc=0 >>
+22235
+dbg2s1.com | SUCCESS | rc=0 >>
+548
+dbg4s1.com | SUCCESS | rc=0 >>
+5207
+dbg1s1.com | SUCCESS | rc=0 >>
+2186
+===========检查tracking_LanderID_v3,tag_v3=================
+dbg2s1.com | SUCCESS | rc=0 >>
+35719
+dbg3s1.com | SUCCESS | rc=0 >>
+94694
+dbg1s1.com | SUCCESS | rc=0 >>
+66499
+dbg4s1.com | SUCCESS | rc=0 >>
+326674
+===========检查tracking_LanderID_v4,tag_v4=================
+dbg4s1.com | SUCCESS | rc=0 >>
+28954
+dbg3s1.com | SUCCESS | rc=0 >>
+83309
+dbg2s1.com | SUCCESS | rc=0 >>
+1237
+dbg1s1.com | SUCCESS | rc=0 >>
+2192
+===========检查tracking_LanderID_v5,tag_v5=================
+dbg1s1.com | SUCCESS | rc=0 >>
+3696
+dbg4s1.com | SUCCESS | rc=0 >>
+93601
+dbg2s1.com | SUCCESS | rc=0 >>
+10143
+dbg3s1.com | SUCCESS | rc=0 >>
+152895
+===========检查tracking_LanderID_v6,tag_v6=================
+dbg3s1.com | SUCCESS | rc=0 >>
+2409
+dbg1s1.com | SUCCESS | rc=0 >>
+42724
+dbg4s1.com | SUCCESS | rc=0 >>
+1116
+dbg2s1.com | SUCCESS | rc=0 >>
+12544
+===========检查tracking_LanderID_v7,tag_v7=================
+dbg3s1.com | SUCCESS | rc=0 >>
+22
+dbg1s1.com | SUCCESS | rc=0 >>
+180
+dbg4s1.com | SUCCESS | rc=0 >>
+43
+dbg2s1.com | SUCCESS | rc=0 >>
+232
+===========检查tracking_LanderID_v8,tag_v8=================
+dbg3s1.com | SUCCESS | rc=0 >>
+1014
+dbg1s1.com | SUCCESS | rc=0 >>
+4080
+dbg2s1.com | SUCCESS | rc=0 >>
+2354
+dbg4s1.com | SUCCESS | rc=0 >>
+619
+===========检查tracking_LanderID_v9,tag_v9=================
+dbg2s1.com | SUCCESS | rc=0 >>
+2334
+dbg3s1.com | SUCCESS | rc=0 >>
+1007
+dbg1s1.com | SUCCESS | rc=0 >>
+1891
+dbg4s1.com | SUCCESS | rc=0 >>
+757
+===========检查tracking_OfferID_AffiliateNetworkID,tag_AffiliateNetworkID=================
+dbg2s1.com | SUCCESS | rc=0 >>
+74
+dbg3s1.com | SUCCESS | rc=0 >>
+33
+dbg4s1.com | SUCCESS | rc=0 >>
+38
+dbg1s1.com | SUCCESS | rc=0 >>
+46
+===========检查tracking_OfferID_Brand,tag_Brand=================
+dbg3s1.com | SUCCESS | rc=0 >>
+4540
+dbg4s1.com | SUCCESS | rc=0 >>
+2505
+dbg2s1.com | SUCCESS | rc=0 >>
+2925
+dbg1s1.com | SUCCESS | rc=0 >>
+1904
+===========检查tracking_OfferID_Browser,tag_Browser=================
+dbg3s1.com | SUCCESS | rc=0 >>
+560
+dbg2s1.com | SUCCESS | rc=0 >>
+582
+dbg1s1.com | SUCCESS | rc=0 >>
+847
+dbg4s1.com | SUCCESS | rc=0 >>
+244
+===========检查tracking_OfferID_BrowserVersion,tag_BrowserVersion=================
+dbg3s1.com | SUCCESS | rc=0 >>
+15076
+dbg1s1.com | SUCCESS | rc=0 >>
+7752
+dbg4s1.com | SUCCESS | rc=0 >>
+7023
+dbg2s1.com | SUCCESS | rc=0 >>
+4983
+===========检查tracking_OfferID_CampaignID,tag_CampaignID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+367
+dbg4s1.com | SUCCESS | rc=0 >>
+365
+dbg1s1.com | SUCCESS | rc=0 >>
+306
+dbg2s1.com | SUCCESS | rc=0 >>
+554
+===========检查tracking_OfferID_City,tag_City=================
+dbg3s1.com | SUCCESS | rc=0 >>
+69972
+dbg4s1.com | SUCCESS | rc=0 >>
+30438
+dbg2s1.com | SUCCESS | rc=0 >>
+33675
+dbg1s1.com | SUCCESS | rc=0 >>
+27411
+===========检查tracking_OfferID_ConnectionType,tag_ConnectionType=================
+dbg4s1.com | SUCCESS | rc=0 >>
+7
+dbg3s1.com | SUCCESS | rc=0 >>
+7
+dbg2s1.com | SUCCESS | rc=0 >>
+7
+dbg1s1.com | SUCCESS | rc=0 >>
+7
+===========检查tracking_OfferID_Country,tag_Country=================
+dbg3s1.com | SUCCESS | rc=0 >>
+233
+dbg1s1.com | SUCCESS | rc=0 >>
+168
+dbg2s1.com | SUCCESS | rc=0 >>
+226
+dbg4s1.com | SUCCESS | rc=0 >>
+216
+===========检查tracking_OfferID_DeviceType,tag_DeviceType=================
+dbg3s1.com | SUCCESS | rc=0 >>
+5
+dbg4s1.com | SUCCESS | rc=0 >>
+5
+dbg2s1.com | SUCCESS | rc=0 >>
+5
+dbg1s1.com | SUCCESS | rc=0 >>
+5
+===========检查tracking_OfferID_Domain,tag_Domain=================
+dbg2s1.com | SUCCESS | rc=0 >>
+2679
+dbg3s1.com | SUCCESS | rc=0 >>
+9468
+dbg1s1.com | SUCCESS | rc=0 >>
+8817
+dbg4s1.com | SUCCESS | rc=0 >>
+5810
+===========检查tracking_OfferID_FlowID,tag_FlowID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+271
+dbg2s1.com | SUCCESS | rc=0 >>
+507
+dbg1s1.com | SUCCESS | rc=0 >>
+208
+dbg4s1.com | SUCCESS | rc=0 >>
+274
+===========检查tracking_OfferID_ISP,tag_ISP=================
+dbg3s1.com | SUCCESS | rc=0 >>
+62227
+dbg4s1.com | SUCCESS | rc=0 >>
+22390
+dbg2s1.com | SUCCESS | rc=0 >>
+23208
+dbg1s1.com | SUCCESS | rc=0 >>
+15340
+===========检查tracking_OfferID_LanderID,tag_LanderID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+38
+dbg2s1.com | SUCCESS | rc=0 >>
+91
+dbg1s1.com | SUCCESS | rc=0 >>
+57
+dbg4s1.com | SUCCESS | rc=0 >>
+89
+===========检查tracking_OfferID_Language,tag_Language=================
+dbg3s1.com | SUCCESS | rc=0 >>
+842
+dbg4s1.com | SUCCESS | rc=0 >>
+513
+dbg2s1.com | SUCCESS | rc=0 >>
+637
+dbg1s1.com | SUCCESS | rc=0 >>
+483
+===========检查tracking_OfferID_MobileCarrier,tag_MobileCarrier=================
+dbg3s1.com | SUCCESS | rc=0 >>
+535
+dbg4s1.com | SUCCESS | rc=0 >>
+449
+dbg1s1.com | SUCCESS | rc=0 >>
+322
+dbg2s1.com | SUCCESS | rc=0 >>
+487
+===========检查tracking_OfferID_Model,tag_Model=================
+dbg3s1.com | SUCCESS | rc=0 >>
+31209
+dbg4s1.com | SUCCESS | rc=0 >>
+16403
+dbg1s1.com | SUCCESS | rc=0 >>
+12403
+dbg2s1.com | SUCCESS | rc=0 >>
+19350
+===========检查tracking_OfferID_OS,tag_OS=================
+dbg3s1.com | SUCCESS | rc=0 >>
+397
+dbg4s1.com | SUCCESS | rc=0 >>
+257
+dbg2s1.com | SUCCESS | rc=0 >>
+223
+dbg1s1.com | SUCCESS | rc=0 >>
+210
+===========检查tracking_OfferID_OSVersion,tag_OSVersion=================
+dbg3s1.com | SUCCESS | rc=0 >>
+2062
+dbg2s1.com | SUCCESS | rc=0 >>
+1409
+dbg4s1.com | SUCCESS | rc=0 >>
+1329
+dbg1s1.com | SUCCESS | rc=0 >>
+805
+===========检查tracking_OfferID_Region,tag_Region=================
+dbg3s1.com | SUCCESS | rc=0 >>
+3164
+dbg4s1.com | SUCCESS | rc=0 >>
+2254
+dbg2s1.com | SUCCESS | rc=0 >>
+2971
+dbg1s1.com | SUCCESS | rc=0 >>
+1412
+===========检查tracking_OfferID_TrafficSourceID,tag_TrafficSourceID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+78
+dbg4s1.com | SUCCESS | rc=0 >>
+108
+dbg2s1.com | SUCCESS | rc=0 >>
+303
+dbg1s1.com | SUCCESS | rc=0 >>
+93
+===========检查tracking_OfferID_V1,tag_V1=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_OfferID_V10,tag_V10=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_OfferID_V2,tag_V2=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_OfferID_V3,tag_V3=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_OfferID_V4,tag_V4=================
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_OfferID_V5,tag_V5=================
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_OfferID_V6,tag_V6=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_OfferID_V7,tag_V7=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_OfferID_V8,tag_V8=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_OfferID_V9,tag_V9=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_OfferID_ip,tag_ip=================
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_OfferID_tsCampaignId,tag_tsCampaignId=================
+dbg3s1.com | SUCCESS | rc=0 >>
+144
+dbg2s1.com | SUCCESS | rc=0 >>
+161
+dbg4s1.com | SUCCESS | rc=0 >>
+106
+dbg1s1.com | SUCCESS | rc=0 >>
+242
+===========检查tracking_OfferID_tsWebsiteId,tag_tsWebsiteId=================
+dbg3s1.com | SUCCESS | rc=0 >>
+14574
+dbg1s1.com | SUCCESS | rc=0 >>
+118356
+dbg4s1.com | SUCCESS | rc=0 >>
+360775
+dbg2s1.com | SUCCESS | rc=0 >>
+45268
+===========检查tracking_OfferID_v1,tag_v1=================
+dbg3s1.com | SUCCESS | rc=0 >>
+37666
+dbg1s1.com | SUCCESS | rc=0 >>
+7636
+dbg4s1.com | SUCCESS | rc=0 >>
+24838
+dbg2s1.com | SUCCESS | rc=0 >>
+192093
+===========检查tracking_OfferID_v10,tag_v10=================
+dbg3s1.com | SUCCESS | rc=0 >>
+17
+dbg1s1.com | SUCCESS | rc=0 >>
+87
+dbg2s1.com | SUCCESS | rc=0 >>
+23
+dbg4s1.com | SUCCESS | rc=0 >>
+217711
+===========检查tracking_OfferID_v2,tag_v2=================
+dbg3s1.com | SUCCESS | rc=0 >>
+22236
+dbg4s1.com | SUCCESS | rc=0 >>
+5207
+dbg2s1.com | SUCCESS | rc=0 >>
+548
+dbg1s1.com | SUCCESS | rc=0 >>
+2186
+===========检查tracking_OfferID_v3,tag_v3=================
+dbg3s1.com | SUCCESS | rc=0 >>
+94696
+dbg2s1.com | SUCCESS | rc=0 >>
+35719
+dbg1s1.com | SUCCESS | rc=0 >>
+66514
+dbg4s1.com | SUCCESS | rc=0 >>
+327022
+===========检查tracking_OfferID_v4,tag_v4=================
+dbg3s1.com | SUCCESS | rc=0 >>
+83313
+dbg1s1.com | SUCCESS | rc=0 >>
+2192
+dbg2s1.com | SUCCESS | rc=0 >>
+1237
+dbg4s1.com | SUCCESS | rc=0 >>
+28954
+===========检查tracking_OfferID_v5,tag_v5=================
+dbg1s1.com | SUCCESS | rc=0 >>
+3696
+dbg4s1.com | SUCCESS | rc=0 >>
+93603
+dbg3s1.com | SUCCESS | rc=0 >>
+152987
+dbg2s1.com | SUCCESS | rc=0 >>
+10147
+===========检查tracking_OfferID_v6,tag_v6=================
+dbg3s1.com | SUCCESS | rc=0 >>
+2409
+dbg4s1.com | SUCCESS | rc=0 >>
+1116
+dbg2s1.com | SUCCESS | rc=0 >>
+12544
+dbg1s1.com | SUCCESS | rc=0 >>
+42727
+===========检查tracking_OfferID_v7,tag_v7=================
+dbg3s1.com | SUCCESS | rc=0 >>
+22
+dbg1s1.com | SUCCESS | rc=0 >>
+180
+dbg4s1.com | SUCCESS | rc=0 >>
+43
+dbg2s1.com | SUCCESS | rc=0 >>
+232
+===========检查tracking_OfferID_v8,tag_v8=================
+dbg2s1.com | SUCCESS | rc=0 >>
+2354
+dbg3s1.com | SUCCESS | rc=0 >>
+1014
+dbg4s1.com | SUCCESS | rc=0 >>
+619
+dbg1s1.com | SUCCESS | rc=0 >>
+4080
+===========检查tracking_OfferID_v9,tag_v9=================
+dbg3s1.com | SUCCESS | rc=0 >>
+1007
+dbg4s1.com | SUCCESS | rc=0 >>
+757
+dbg1s1.com | SUCCESS | rc=0 >>
+1891
+dbg2s1.com | SUCCESS | rc=0 >>
+2334
+===========检查tracking_TrafficSourceID_AffiliateNetworkID,tag_AffiliateNetworkID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+33
+dbg4s1.com | SUCCESS | rc=0 >>
+38
+dbg1s1.com | SUCCESS | rc=0 >>
+46
+dbg2s1.com | SUCCESS | rc=0 >>
+74
+===========检查tracking_TrafficSourceID_Brand,tag_Brand=================
+dbg2s1.com | SUCCESS | rc=0 >>
+2925
+dbg3s1.com | SUCCESS | rc=0 >>
+4540
+dbg1s1.com | SUCCESS | rc=0 >>
+1904
+dbg4s1.com | SUCCESS | rc=0 >>
+2505
+===========检查tracking_TrafficSourceID_Browser,tag_Browser=================
+dbg3s1.com | SUCCESS | rc=0 >>
+560
+dbg1s1.com | SUCCESS | rc=0 >>
+847
+dbg2s1.com | SUCCESS | rc=0 >>
+582
+dbg4s1.com | SUCCESS | rc=0 >>
+244
+===========检查tracking_TrafficSourceID_BrowserVersion,tag_BrowserVersion=================
+dbg3s1.com | SUCCESS | rc=0 >>
+15076
+dbg4s1.com | SUCCESS | rc=0 >>
+7026
+dbg2s1.com | SUCCESS | rc=0 >>
+4983
+dbg1s1.com | SUCCESS | rc=0 >>
+7753
+===========检查tracking_TrafficSourceID_CampaignID,tag_CampaignID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+367
+dbg2s1.com | SUCCESS | rc=0 >>
+554
+dbg1s1.com | SUCCESS | rc=0 >>
+306
+dbg4s1.com | SUCCESS | rc=0 >>
+365
+===========检查tracking_TrafficSourceID_City,tag_City=================
+dbg3s1.com | SUCCESS | rc=0 >>
+69972
+dbg4s1.com | SUCCESS | rc=0 >>
+30440
+dbg1s1.com | SUCCESS | rc=0 >>
+27413
+dbg2s1.com | SUCCESS | rc=0 >>
+33676
+===========检查tracking_TrafficSourceID_ConnectionType,tag_ConnectionType=================
+dbg3s1.com | SUCCESS | rc=0 >>
+7
+dbg1s1.com | SUCCESS | rc=0 >>
+7
+dbg2s1.com | SUCCESS | rc=0 >>
+7
+dbg4s1.com | SUCCESS | rc=0 >>
+7
+===========检查tracking_TrafficSourceID_Country,tag_Country=================
+dbg3s1.com | SUCCESS | rc=0 >>
+233
+dbg2s1.com | SUCCESS | rc=0 >>
+226
+dbg4s1.com | SUCCESS | rc=0 >>
+216
+dbg1s1.com | SUCCESS | rc=0 >>
+168
+===========检查tracking_TrafficSourceID_DeviceType,tag_DeviceType=================
+dbg3s1.com | SUCCESS | rc=0 >>
+5
+dbg4s1.com | SUCCESS | rc=0 >>
+5
+dbg2s1.com | SUCCESS | rc=0 >>
+5
+dbg1s1.com | SUCCESS | rc=0 >>
+5
+===========检查tracking_TrafficSourceID_Domain,tag_Domain=================
+dbg3s1.com | SUCCESS | rc=0 >>
+9470
+dbg4s1.com | SUCCESS | rc=0 >>
+5810
+dbg2s1.com | SUCCESS | rc=0 >>
+2679
+dbg1s1.com | SUCCESS | rc=0 >>
+8823
+===========检查tracking_TrafficSourceID_FlowID,tag_FlowID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+271
+dbg2s1.com | SUCCESS | rc=0 >>
+507
+dbg4s1.com | SUCCESS | rc=0 >>
+274
+dbg1s1.com | SUCCESS | rc=0 >>
+208
+===========检查tracking_TrafficSourceID_ISP,tag_ISP=================
+dbg3s1.com | SUCCESS | rc=0 >>
+62234
+dbg1s1.com | SUCCESS | rc=0 >>
+15342
+dbg4s1.com | SUCCESS | rc=0 >>
+22394
+dbg2s1.com | SUCCESS | rc=0 >>
+23209
+===========检查tracking_TrafficSourceID_LanderID,tag_LanderID=================
+dbg2s1.com | SUCCESS | rc=0 >>
+91
+dbg1s1.com | SUCCESS | rc=0 >>
+57
+dbg3s1.com | SUCCESS | rc=0 >>
+38
+dbg4s1.com | SUCCESS | rc=0 >>
+89
+===========检查tracking_TrafficSourceID_Language,tag_Language=================
+dbg3s1.com | SUCCESS | rc=0 >>
+842
+dbg4s1.com | SUCCESS | rc=0 >>
+513
+dbg1s1.com | SUCCESS | rc=0 >>
+483
+dbg2s1.com | SUCCESS | rc=0 >>
+637
+===========检查tracking_TrafficSourceID_MobileCarrier,tag_MobileCarrier=================
+dbg3s1.com | SUCCESS | rc=0 >>
+535
+dbg4s1.com | SUCCESS | rc=0 >>
+449
+dbg2s1.com | SUCCESS | rc=0 >>
+487
+dbg1s1.com | SUCCESS | rc=0 >>
+323
+===========检查tracking_TrafficSourceID_Model,tag_Model=================
+dbg3s1.com | SUCCESS | rc=0 >>
+31215
+dbg4s1.com | SUCCESS | rc=0 >>
+16404
+dbg1s1.com | SUCCESS | rc=0 >>
+12403
+dbg2s1.com | SUCCESS | rc=0 >>
+19350
+===========检查tracking_TrafficSourceID_OS,tag_OS=================
+dbg3s1.com | SUCCESS | rc=0 >>
+397
+dbg2s1.com | SUCCESS | rc=0 >>
+223
+dbg4s1.com | SUCCESS | rc=0 >>
+257
+dbg1s1.com | SUCCESS | rc=0 >>
+210
+===========检查tracking_TrafficSourceID_OSVersion,tag_OSVersion=================
+dbg3s1.com | SUCCESS | rc=0 >>
+2062
+dbg4s1.com | SUCCESS | rc=0 >>
+1329
+dbg1s1.com | SUCCESS | rc=0 >>
+805
+dbg2s1.com | SUCCESS | rc=0 >>
+1409
+===========检查tracking_TrafficSourceID_OfferID,tag_OfferID=================
+dbg3s1.com | SUCCESS | rc=0 >>
+251
+dbg1s1.com | SUCCESS | rc=0 >>
+232
+dbg2s1.com | SUCCESS | rc=0 >>
+434
+dbg4s1.com | SUCCESS | rc=0 >>
+190
+===========检查tracking_TrafficSourceID_Region,tag_Region=================
+dbg3s1.com | SUCCESS | rc=0 >>
+3164
+dbg2s1.com | SUCCESS | rc=0 >>
+2971
+dbg4s1.com | SUCCESS | rc=0 >>
+2254
+dbg1s1.com | SUCCESS | rc=0 >>
+1412
+===========检查tracking_TrafficSourceID_V1,tag_V1=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_TrafficSourceID_V10,tag_V10=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_TrafficSourceID_V2,tag_V2=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_TrafficSourceID_V3,tag_V3=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_TrafficSourceID_V4,tag_V4=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_TrafficSourceID_V5,tag_V5=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_TrafficSourceID_V6,tag_V6=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_TrafficSourceID_V7,tag_V7=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_TrafficSourceID_V8,tag_V8=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_TrafficSourceID_V9,tag_V9=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_TrafficSourceID_ip,tag_ip=================
+dbg3s1.com | SUCCESS | rc=0 >>
+0
+dbg4s1.com | SUCCESS | rc=0 >>
+0
+dbg2s1.com | SUCCESS | rc=0 >>
+0
+dbg1s1.com | SUCCESS | rc=0 >>
+0
+===========检查tracking_TrafficSourceID_tsCampaignId,tag_tsCampaignId=================
+dbg3s1.com | SUCCESS | rc=0 >>
+144
+dbg4s1.com | SUCCESS | rc=0 >>
+106
+dbg2s1.com | SUCCESS | rc=0 >>
+161
+dbg1s1.com | SUCCESS | rc=0 >>
+242
+===========检查tracking_TrafficSourceID_tsWebsiteId,tag_tsWebsiteId=================
+dbg3s1.com | SUCCESS | rc=0 >>
+14574
+dbg2s1.com | SUCCESS | rc=0 >>
+45268
+dbg1s1.com | SUCCESS | rc=0 >>
+118372
+dbg4s1.com | SUCCESS | rc=0 >>
+361486
+===========检查tracking_TrafficSourceID_v1,tag_v1=================
+dbg3s1.com | SUCCESS | rc=0 >>
+37666
+dbg1s1.com | SUCCESS | rc=0 >>
+7637
+dbg4s1.com | SUCCESS | rc=0 >>
+24839
+dbg2s1.com | SUCCESS | rc=0 >>
+192168
+===========检查tracking_TrafficSourceID_v10,tag_v10=================
+dbg3s1.com | SUCCESS | rc=0 >>
+17
+dbg4s1.com | SUCCESS | rc=0 >>
+217711
+dbg1s1.com | SUCCESS | rc=0 >>
+87
+dbg2s1.com | SUCCESS | rc=0 >>
+23
+===========检查tracking_TrafficSourceID_v2,tag_v2=================
+dbg3s1.com | SUCCESS | rc=0 >>
+22238
+dbg4s1.com | SUCCESS | rc=0 >>
+5208
+dbg2s1.com | SUCCESS | rc=0 >>
+548
+dbg1s1.com | SUCCESS | rc=0 >>
+2186
+===========检查tracking_TrafficSourceID_v3,tag_v3=================
+dbg2s1.com | SUCCESS | rc=0 >>
+35719
+dbg3s1.com | SUCCESS | rc=0 >>
+94697
+dbg1s1.com | SUCCESS | rc=0 >>
+66525
+dbg4s1.com | SUCCESS | rc=0 >>
+327376
+===========检查tracking_TrafficSourceID_v4,tag_v4=================
+dbg1s1.com | SUCCESS | rc=0 >>
+2192
+dbg2s1.com | SUCCESS | rc=0 >>
+1237
+dbg4s1.com | SUCCESS | rc=0 >>
+28954
+dbg3s1.com | SUCCESS | rc=0 >>
+83316
+===========检查tracking_TrafficSourceID_v5,tag_v5=================
+dbg1s1.com | SUCCESS | rc=0 >>
+3696
+dbg2s1.com | SUCCESS | rc=0 >>
+10147
+dbg3s1.com | SUCCESS | rc=0 >>
+153098
+dbg4s1.com | SUCCESS | rc=0 >>
+93606
+===========检查tracking_TrafficSourceID_v6,tag_v6=================
+dbg3s1.com | SUCCESS | rc=0 >>
+2409
+dbg4s1.com | SUCCESS | rc=0 >>
+1116
+dbg1s1.com | SUCCESS | rc=0 >>
+42732
+dbg2s1.com | SUCCESS | rc=0 >>
+12544
+===========检查tracking_TrafficSourceID_v7,tag_v7=================
+dbg3s1.com | SUCCESS | rc=0 >>
+22
+dbg4s1.com | SUCCESS | rc=0 >>
+43
+dbg1s1.com | SUCCESS | rc=0 >>
+180
+dbg2s1.com | SUCCESS | rc=0 >>
+232
+===========检查tracking_TrafficSourceID_v8,tag_v8=================
+dbg3s1.com | SUCCESS | rc=0 >>
+1014
+dbg1s1.com | SUCCESS | rc=0 >>
+4080
+dbg4s1.com | SUCCESS | rc=0 >>
+619
+dbg2s1.com | SUCCESS | rc=0 >>
+2354
+===========检查tracking_TrafficSourceID_v9,tag_v9=================
+dbg3s1.com | SUCCESS | rc=0 >>
+1007
+dbg1s1.com | SUCCESS | rc=0 >>
+1891
+dbg2s1.com | SUCCESS | rc=0 >>
+2334
+dbg4s1.com | SUCCESS | rc=0 >>
+757
