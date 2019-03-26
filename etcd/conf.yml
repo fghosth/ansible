@@ -1,9 +1,9 @@
 name: etcd-1
 data-dir: /data/etcd-v3.3.10/data
-listen-client-urls: http://172.28.0.160:2379,http://127.0.0.1:2379
-advertise-client-urls: http://172.28.0.160:2379,http://127.0.0.1:2379
-listen-peer-urls: http://172.28.0.160:2380
-initial-advertise-peer-urls: http://172.28.0.160:2380
-initial-cluster: etcd-1=http://172.28.0.160:2380,etcd-2=http://:172.28.0.230:2380,etcd-3=http://172.28.0.106:2380
+listen-client-urls: http://0.0.0.0:2379,http://0.0.0.0:2379
+advertise-client-urls: http://0.0.0.0:2379,http://0.0.0.0:2379
+listen-peer-urls: http://0.0.0.0:2380
+initial-advertise-peer-urls: http://0.0.0.0:2380
+initial-cluster: etcd-1=http://swarm01:2380,etcd-2=http://swarm02:2380,etcd-3=http://swarm03:2380
 initial-cluster-token: etcd-cluster-token
 initial-cluster-state: new
